@@ -212,6 +212,7 @@ input, select, textarea {
 
 	p {
 		text-align: justify;
+    text-justify: inter-word;
 	}
 
 	header {
